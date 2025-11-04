@@ -338,6 +338,11 @@ src/
     └── dispose/            # Resource cleanup tests
 ```
 
+## 📋 Subsequent Development Plan
+
+- Multi-thread Support (In Progress)
+- Entity-Component Framework Independent of System (Not Started)
+
 ## 📄 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
