@@ -14,7 +14,7 @@ GServerECS is an open-source ECS framework designed and developed specifically f
 
 This framework is designed for game server scenarios. A single process can create multiple EcsWorld instances, each corresponding to a game room (Room) or scene (Scene). Each EcsWorld is designed to be thread-confined, accessible only within the thread that created it, and does not support cross-thread calls.
 
-If this project has helped you, please feel free to give it a star to show your support~ This will help more people discover it 😊
+If this project has helped you, please feel free to give it a star⭐ to show your support~ This will help more people discover it 😊
 ## 🌟 Key Features
 
 ### Core Functionality
